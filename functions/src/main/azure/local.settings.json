@@ -1,20 +1,20 @@
 {
-    "IsEncrypted": false,
-    "Values": {
-      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=afklmaz204sa;AccountKey=90U3VYDqLfD6HK+Tuq5jFeKyaarcfmqoTTjygTaobf+TsmXBcSoTP0UWazIQc7hvki3uLGvrpy49+AStQk83ww==;EndpointSuffix=core.windows.net",
-      "FUNCTIONS_WORKER_RUNTIME": "java",
-      "MAIN_CLASS":"com.example.functions.FunctionsApplication",
-      "AzureWebJobsDashboard": "",
-      "azure.cosmos.uri": "https://af-klm-az-204-cdb.documents.azure.com:443/",
-      "azure.cosmos.key":"Y8EzO2EtACrVOXXCEfQHiwa3NT5skQVUpgrhLS0ByD5mhpvX5XTjyRdcuHMTXvrvLciiCsuFp5tIk46jYH7Rtw==",
-      "azure.cosmos.database":"af-klm-az-204",
-      "azure.cosmos.populateQueryMetrics": "false",
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=az204storage07;AccountKey=9Q5vg/xyUUNtN6xFamRWIOJmbxOieyZKeA3jAv7wF3S+AZLbOSbHApXDn2G+q5+CEyd84U7Pne3A+AStgOdjJg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "MAIN_CLASS":"com.example.functions.FunctionsApplication",
+    "AzureWebJobsDashboard": "",
+    "azure.cosmos.uri": "https://azcosmostrainee07.documents.azure.com:443/",
+    "azure.cosmos.key":"lNh6DzdjzSRPKzCYSE6ktCyMSte8xIVa0gbgS9sRLI6S7IqpeV5zRelZAgUc5zyP2obHNGVgzkBDACDb4hZPdQ==",
+    "azure.cosmos.database":"azcosmostrainee07",
+    "azure.cosmos.populateQueryMetrics": "false",
 
-      "azure.storage.account-name": "afklmaz204sa",
-      "azure.storage.account-key":"90U3VYDqLfD6HK+Tuq5jFeKyaarcfmqoTTjygTaobf+TsmXBcSoTP0UWazIQc7hvki3uLGvrpy49+AStQk83ww==",
-      "azure.storage.blob-endpoint":"http://afklmaz204sa.blob.core.windows.net",
+    "azure.storage.account-name": "az204storage07",
+    "azure.storage.account-key":"9Q5vg/xyUUNtN6xFamRWIOJmbxOieyZKeA3jAv7wF3S+AZLbOSbHApXDn2G+q5+CEyd84U7Pne3A+AStgOdjJg==",
+    "azure.storage.blob-endpoint":"http://az204storage07.blob.core.windows.net",
 
-      "images.raw.container":"raw-images",
-      "images.watermarked.container":"atermarked-images"
-    }
+    "images.raw.container":"raw-images",
+    "images.watermarked.container":"atermarked-images"
   }
+}
